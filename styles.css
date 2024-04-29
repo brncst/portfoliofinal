@@ -40,6 +40,9 @@ header {
     gap: 30px;
 }
 
+.email{
+    color: #007bff;
+}
 .apresentacao{
     font-family: var(--fonte-terceira);
     font-weight: 900;
