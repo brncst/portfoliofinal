@@ -380,6 +380,11 @@ footer {
     border-radius: 30px;
 }
 
+.timeline-item:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    color: #4de1ef;
+}
 .projeto:hover{
     transform: scale(1.1);
     transition: 0.5s;
