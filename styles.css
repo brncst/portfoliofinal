@@ -421,7 +421,10 @@ footer {
 
     .cards{
         display: grid;
-        grid-template-columns: 1fr;
-       
+        grid-template-columns: 1fr;  
+    }
+
+    .apoio{
+        width: 100%;
     }
 }
